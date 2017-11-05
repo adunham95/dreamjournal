@@ -11,6 +11,11 @@ Coming Soon!
 Coming Soon!
 
 ### Development
+The server hosts the whats in the public folder. 
+For font end development work in the webclient folder. 
+When you run the build process in the build folder it will compile the code into the main public folder for hosting.
+
+### Contribute
 Want to contribute? Great!
 
 To fix a bug or enhance an existing module, follow these steps:
